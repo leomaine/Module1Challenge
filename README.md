@@ -1,32 +1,32 @@
-Module 1 Challenge Horiseon Website
+-Module 1 Challenge Horiseon Website
 
 
-Description
-This progject will be the updating of Horiseon seo a social media managment, marketing and seo company. This project updated the semantics and cleaned up html and css, additionally adding alts to all images.
+Description:
+This project will be the updating of Horiseon seo a social media managment, marketing and seo company. This project updated the semantics and cleaned up html and css, additionally adding alts to all images.
 
-Table of Contents (Optional)
-Installation
-Usage
-Credits
-License
+Table of Contents:
+-Installation
+-Usage
+-Credits
+-License
 
-Installation
-uploaded to online repository via git bash ans github
+Installation:
+Uploaded to online repository via git bash ans github
 
-Usage
-learn multiple services that Horiseon offers.
+Usage:
+Learn multiple services that Horiseon offers.
 
-Credits
+Credits:
 Jermaine Rayner edx codecamp
 
-License
+License:
 n/a
 
-Badges
+Badges:
 n/a
 
-Features
-page has multiple images descriptions with a list at top and sidebar.
+Features:
+Page has multiple images descriptions with a list at top and sidebar.
 
-Tests
-multiple trail and error tests whilst updating semantics of html and adding alt to images.
+Tests:
+Multiple trail and error tests whilst updating semantics of html and adding alt to images.
